@@ -5,6 +5,7 @@ body {
   flex-direction: column;
   width: 100vw;
   height: 100vh;
+  background-color: #AEEEE4;
 }
 
 .btn {
@@ -57,4 +58,8 @@ body {
 }
 .current {
   font-size: 30px;
+}
+#h1{
+      background-image: linear-gradient(to top, cyan, lightslategray);
+      color: white;
 }

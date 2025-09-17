@@ -1,3 +1,9 @@
+
+
+addEventListener("load", (event) => { 
+    alert("------------Welcome-----------");
+})
+
 function add(a, b) {
   return a + b;
 }
